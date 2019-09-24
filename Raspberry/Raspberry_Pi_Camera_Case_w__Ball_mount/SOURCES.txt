@@ -1,0 +1,4 @@
+Sources for Raspberry Pi Camera Case w/ Ball mount
+
+Raspberry pi camera case/enclosure (https://www.thingiverse.com/thing:92208)
+Camera mount for drink bottles (https://www.thingiverse.com/thing:2631)
